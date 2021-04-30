@@ -1,4 +1,6 @@
 # Volusia-Census-Tracts-and-Blocks-Overview
+Hey class! Here is my project. Before you get started, download the zipfile I provided for you with all the 2020 Census Tracts, Block Groups, and Tabblocks. Once you do that, review my presentation which will show you step by step how to use the shapefiles. I also provided links to where I got the shapefiles and documentation about Census and LSTAT. I go over them in great detail in my videos. 
+
 Presentation on how to use shapefiles 
 Pt1 https://www.youtube.com/watch?v=eFzXRphnlVQ
 
