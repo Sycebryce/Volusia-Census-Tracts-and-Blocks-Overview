@@ -1,8 +1,11 @@
 # Volusia-Census-Tracts-and-Blocks-Overview
 Presentation on how to use shapefiles 
 Pt1 https://www.youtube.com/watch?v=eFzXRphnlVQ
+
 Pt2 https://www.youtube.com/watch?v=A2rJAjUjFZo
+
 Pt3 https://www.youtube.com/watch?v=kDY9LIZ__Ow
+
 Link to the Census Tiger/Line Shapefiles
 https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html
 Link to the Tiger/Line Shapefiles
