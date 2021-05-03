@@ -27,7 +27,13 @@ Blockgroups are groups of blocks that can contain between 600 to 3000 persons.
 
 Blocks are very small areas that are statistically bounded on all sides by visible features (e.g., streets, roads, streams, and railroad tracks), and by non-visible boundaries (e.g. city, town, township, county limits, and short line-of-sight extensions of streets and roads.
 
-One thing you will notice is the size of each tract and a lot of it is due to the density of the population. Right click on the track and click attribute table and on the top left you will see the total of records for tract, blockgroups, and blocks. On the table you will be provided with fields of data like the state and county fip code, area of land and water, and a variety data. To find out what each row of data is specifically we can click on the row and the data will be highlighted yellow. So we can do this for any of the rows we can click 
+One thing you will notice is the size of each tract and a lot of it is due to the density of the population. Notice how large the tracts, blockgroups, and blocks based on the house prices. Areas with red house will be a lot larger than areas with blue houses. Low income housing will produce smaller areas, becasue they are densely populated with smaller houses compared to high income housing.
+
+![image](https://user-images.githubusercontent.com/82833246/116937273-ff843d00-ac36-11eb-984e-2700dbdca2a0.png)
+
+![image](https://user-images.githubusercontent.com/82833246/116937387-25a9dd00-ac37-11eb-8576-dc34dd3bbdc3.png)
+
+Right click on the track and click attribute table and on the top left you will see the total of records for tract, blockgroups, and blocks. On the table you will be provided with fields of data like the state and county fip code, area of land and water, and a variety data. To find out what each row of data is specifically we can click on the row and the data will be highlighted yellow. So we can do this for any of the rows we can click 
 
 ![image](https://user-images.githubusercontent.com/82833246/116934675-453f0680-ac33-11eb-8f6b-5566194a74ab.png)
 
